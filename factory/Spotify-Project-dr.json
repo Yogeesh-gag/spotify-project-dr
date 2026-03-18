@@ -1,0 +1,9 @@
+{
+	"name": "Spotify-Project-dr",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f0159cd-3721-4f46-8033-0da86f1b2013",
+		"tenantId": "ae0e8f78-d314-4451-8995-f4847cf711c5"
+	}
+}
